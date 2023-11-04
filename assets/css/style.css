@@ -81,6 +81,7 @@ nav li a {
     width: 50%;
     display: flex;
     justify-content:space-evenly;
+    gap: 10px;
 }
 .social a{
     padding: 3px;
